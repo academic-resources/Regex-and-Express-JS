@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "pg": "^8.3.0",
     "pug": "^2.0.4",
     "sequelize": "^5.22.3",
